@@ -59,6 +59,17 @@ header {
     display: flex;
     margin-top: 50px;
     margin-left: auto;
-    margin-right: 5px;
+    margin-right: 20px;
     justify-items: right;
+}
+
+.platinum-menu-inicio {
+    display: flex;
+    margin-right: 5px;
+}
+
+.platinum-menu-services {
+    display: flex;
+    margin-left: 5px;
+
 }

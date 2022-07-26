@@ -19,6 +19,9 @@ function Header() {
                 <div className="platinum-menu-inicio">
                     <a href={`${ BASE_URL }/index.html`} target={"_blank"} rel="noopener noreferrer"><text>Início</text></a>
                 </div>
+                <div className="platinum-menu-services">
+                    <a href={`${ BASE_URL }/Services/services.html`} target={"_blank"} rel="noopener noreferrer"><text>Serviços</text></a>
+                </div>
             </menu>
 
 
