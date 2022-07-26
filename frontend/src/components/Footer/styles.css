@@ -1,11 +1,11 @@
 footer {
     background: linear-gradient(rgb(var(--color_27)));
-    bottom: 100px;
+    bottom: 250px;
     display: flex;
+    margin-block-end: auto;
     vertical-align: baseline;
     align-items: center;
     justify-content: center;
-
 }
 
 .platinum-footer {
