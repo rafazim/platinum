@@ -1,0 +1,15 @@
+footer {
+    background: linear-gradient(rgb(var(--color_27)));
+    bottom: 100px;
+    display: flex;
+    vertical-align: baseline;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.platinum-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
